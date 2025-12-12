@@ -187,6 +187,17 @@ body, html {
     transform: translateX(-100%);
 }
 
+.sidebar a {
+    text-decoration: var(--accent) solid underline;
+    font-style: italic;
+    color: var(--text-light);
+}
+
+.sidebar a:hover {
+    color: var(--accent);
+    transition: 0.3s ease;
+}
+
 .sidebar-toggle {
     position: fixed;
     top: 50%;
