@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Little Compton Stone Wall Stewards</title>
+	<meta name="description" content="The Little Compton Stone Wall Survey is a community-based initiative to study the walls of Little Compton, Rhode Island." />
+	<link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+
+	<link rel="stylesheet" href="/styles.css">
+
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet-minimap/dist/Control.MiniMap.min.css" />
+
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav class="top-nav">
+		<img id="nav-img" src="/assets/cover.jpg">
+		<span id="nav-title">Little Compton Stone Wall Stewards</span>
+    </nav>
+
+	<aside id="sidebar" class="sidebar modern-sidebar">
+		<section class="sidebar-card">
+			<h2 class="sidebar-title">About</h2>
+			<p class="sidebar-text">
+				This application showcases data collected by volunteers as part of an effort to document the stone walls of Little Compton, Rhode Island.
+			</p>
+			<p class="sidebar-text">
+				Each point on the map represents an individual observation. When selected, more information is displayed.
+			</p>
+			<p class="sidebar-text">
+				If you're  interested in volunteering, please <a href="https://script.google.com/macros/s/AKfycbxe7XbBoVjPIcXrsehU33Y60pgB137GszE9DAQdEGg/dev?pli=1&authuser=0">follow this link</a>. For instructions on collecting data, please see <a href="/assets/instructions.pdf">this instructional document</a>.
+			</p>
+		</section>
+
+		<section class="sidebar-card">
+			<h2 class="sidebar-title">Filters</h2>
+			<p class="sidebar-text">
+				Adjust the data being displayed on the map
+			</p>
+
+			<div class="form-group">
+				<input id="search-bar" type="text" placeholder="Search by keyword, volunteer name, etc..." class="input-field">
+			</div>
+
+			<div class="form-group">
+				<label class="input-label">Wall type</label>
+				<select id="filter-walltype" class="input-field"></select>
+			</div>
+
+			<div class="form-group">
+				<label class="input-label">Vegetation cover</label>
+				<select id="filter-veg" class="input-field"></select>
+			</div>
+
+			<button id="reset-filters" class="btn-secondary w-full">Reset filters</button>
+		</section>
+
+		<section class="sidebar-card">
+			<h2 class="sidebar-title">Recent submissions <span id="entry-count"></span></h2>
+			<div id="recent-entries" class="entries-list"></div>
+		</section>
+
+		<section class="sidebar-card sidebar-collapsible">
+			<details>
+				<summary><h2 class="sidebar-title">Disclaimer</h2></summary>
+				<p class="sidebar-text small">
+					Data is provided <b>AS IS</b>, with no warranties of accuracy, completeness, or fitnes for real-world fieldwork or measurement. All field actions, including data collection, are the sole responsibility of Stone Wall Stewards ("the Organization").<br><br>
+					
+					Elliot Vosburgh ("the Consultant") does not endorse, approve, supervise, or hold responsibility for any field actions undertaken by the Organization. The Consultant is not liable for any decisions, actions, interpretations, damages, or outcomes arising from the Organization's use, misuse, alteration, or reliance upon any deliverables or materials provided.<br><br>
+
+					All underlying code, methodologies, workflows, and datasets created by the Consultant remain the exclusive intellectual property of the Consultant unless otherwise agreed in writing. The Organization is granted a non-transferable, non-exclusive, non-sublicensable license to use the project deliverables solely for wall inventory and non-intervention ecological study.<br><br>
+
+					The Consultant prohibits project deliverables from being incorporated into, used to develop, or used to support any commercial product, service, business activity, or revenue-generating venture by any organization or individual. Deliverables may not be sold, sublicensed, redistributed, or otherwise used for commercial gain.
+				</p>
+			</details>
+		</section>
+
+		<p class="sidebar-footer">
+			Application © <a href="https://vosburgh.dev">Elliot Vosburgh</a><br><br>
+		</p>
+	</aside>
+	<button id="toggle-btn" class="sidebar-toggle">❮</button>
+
+	<div class="container">
+		<main class="map-container">
+			<div id="map"></div>
+		</main>
+	</div>
+
+	<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+	<script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+	<script src="https://unpkg.com/leaflet-minimap/dist/Control.MiniMap.min.js"></script>
+	
+	<script src="script.js"></script>
+</body>
+</html>
