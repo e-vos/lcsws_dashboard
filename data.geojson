@@ -13,29 +13,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.135696,
-          41.551025
+          -71.158397,
+          41.486493
         ]
       },
       "properties": {
-        "entry_id": "733dda4f-a973-4eca-af8f-63d1064ee0c4",
-        "created_at": "2025-12-10T20:13:39.000Z",
-        "gps_accuracy_m": 15,
+        "entry_id": "862aff58-6cd5-4467-875e-fc7f211dbbce",
+        "created_at": "2026-03-27T13:32:02.000Z",
+        "gps_accuracy_m": 4,
         "gps_source": "Explicit Question",
         "Wall_Condition": "Good",
         "Vegetation_Cover": "Clear (0-25% covered)",
         "Wall_Type": "Laid (carefully selected and fitted)",
         "Stone_Shape": [
           "Ball",
-          "Slab"
+          "Slab",
+          "Block",
+          "Tablet"
         ],
-        "Special_Features": [
-          "Other (add comment)"
-        ],
-        "Surveyor_Name": "Steven Lubar",
-        "Comments": "Nice wall.",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=733dda4f-a973-4eca-af8f-63d1064ee0c4_1765397364.jpg",
-        "Photo_Filename": "733dda4f-a973-4eca-af8f-63d1064ee0c4_1765397364.jpg"
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=862aff58-6cd5-4467-875e-fc7f211dbbce_1774618274.jpg",
+        "Photo_Filename": "862aff58-6cd5-4467-875e-fc7f211dbbce_1774618274.jpg"
       }
     },
     {
@@ -43,29 +43,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.135696,
-          41.551025
+          -71.158722,
+          41.486489
         ]
       },
       "properties": {
-        "entry_id": "21314fec-51be-4c7a-b139-d9348d11443b",
-        "created_at": "2025-12-10T19:51:18.000Z",
-        "gps_accuracy_m": 15,
+        "entry_id": "e0216d9e-81a1-4885-9eff-d26ea835708a",
+        "created_at": "2026-03-27T13:30:14.000Z",
+        "gps_accuracy_m": 4,
         "gps_source": "Explicit Question",
         "Wall_Condition": "Good",
         "Vegetation_Cover": "Clear (0-25% covered)",
         "Wall_Type": "Laid (carefully selected and fitted)",
         "Stone_Shape": [
           "Ball",
-          "Slab"
+          "Slab",
+          "Block",
+          "Tablet"
         ],
-        "Special_Features": [
-          "Other (add comment)"
-        ],
-        "Surveyor_Name": "Steven Lubar",
-        "Comments": "Nice wall.",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=21314fec-51be-4c7a-b139-d9348d11443b_1765395950.jpg",
-        "Photo_Filename": "21314fec-51be-4c7a-b139-d9348d11443b_1765395950.jpg"
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=e0216d9e-81a1-4885-9eff-d26ea835708a_1774618166.jpg",
+        "Photo_Filename": "e0216d9e-81a1-4885-9eff-d26ea835708a_1774618166.jpg"
       }
     },
     {
@@ -73,32 +73,89 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.135667,
-          41.551041
+          -71.158953,
+          41.486311
         ]
       },
       "properties": {
-        "entry_id": "319865ed-05f7-4086-8964-4e7828a3b9d8",
-        "created_at": "2025-12-10T19:27:52.000Z",
-        "gps_accuracy_m": 2,
+        "entry_id": "0c00bdc6-29fe-4638-a33b-ee61aafb107c",
+        "created_at": "2026-03-27T13:27:45.000Z",
+        "gps_accuracy_m": 3,
         "gps_source": "Explicit Question",
-        "Wall_Condition": "Poor",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Block",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=0c00bdc6-29fe-4638-a33b-ee61aafb107c_1774617972.jpg",
+        "Photo_Filename": "0c00bdc6-29fe-4638-a33b-ee61aafb107c_1774617972.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.159287,
+          41.485751
+        ]
+      },
+      "properties": {
+        "entry_id": "23168e14-2052-4b62-9415-1b2440511bed",
+        "created_at": "2026-03-27T13:22:02.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Block",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=23168e14-2052-4b62-9415-1b2440511bed_1774617662.jpg",
+        "Photo_Filename": "23168e14-2052-4b62-9415-1b2440511bed_1774617662.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.159285,
+          41.485678
+        ]
+      },
+      "properties": {
+        "entry_id": "b041939a-4008-4ee6-aa24-7e02348c3892",
+        "created_at": "2026-03-27T13:19:39.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
         "Vegetation_Cover": "Clear (0-25% covered)",
         "Wall_Type": "Stacked (stones placed loosely)",
         "Stone_Shape": [
+          "Ball",
           "Slab",
           "Block",
-          "Prism"
+          "Tablet"
         ],
-        "Special_Features": [
-          "Flat top",
-          "Opening in wall",
-          "Other (add comment)"
-        ],
-        "Surveyor_Name": "",
-        "Comments": "Lovely wall",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=319865ed-05f7-4086-8964-4e7828a3b9d8_1765394742.jpg",
-        "Photo_Filename": "319865ed-05f7-4086-8964-4e7828a3b9d8_1765394742.jpg"
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=b041939a-4008-4ee6-aa24-7e02348c3892_1774617412.jpg",
+        "Photo_Filename": "b041939a-4008-4ee6-aa24-7e02348c3892_1774617412.jpg"
       }
     },
     {
@@ -106,28 +163,1721 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.135538,
-          41.550995
+          -71.140685,
+          41.558257
         ]
       },
       "properties": {
-        "entry_id": "6b8c2e85-476f-4767-980c-f784b495df8b",
-        "created_at": "2025-12-10T19:09:13.000Z",
-        "gps_accuracy_m": 50,
+        "entry_id": "ec7d0a7a-d5e3-4520-b1c4-b7d79e31d26a",
+        "created_at": "2026-03-26T15:30:53.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Quite covered (50-75% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=ec7d0a7a-d5e3-4520-b1c4-b7d79e31d26a_1774539009.jpg",
+        "Photo_Filename": "ec7d0a7a-d5e3-4520-b1c4-b7d79e31d26a_1774539009.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.140559,
+          41.558781
+        ]
+      },
+      "properties": {
+        "entry_id": "512e9e5b-5118-40fd-b8e2-41f7d7fbefc7",
+        "created_at": "2026-03-26T15:28:24.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=512e9e5b-5118-40fd-b8e2-41f7d7fbefc7_1774538823.jpg",
+        "Photo_Filename": "512e9e5b-5118-40fd-b8e2-41f7d7fbefc7_1774538823.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14057,
+          41.55886
+        ]
+      },
+      "properties": {
+        "entry_id": "7de096e1-0908-4101-8582-cbab62940a57",
+        "created_at": "2026-03-26T15:26:06.000Z",
+        "gps_accuracy_m": 7,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=7de096e1-0908-4101-8582-cbab62940a57_1774538709.jpg",
+        "Photo_Filename": "7de096e1-0908-4101-8582-cbab62940a57_1774538709.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.141239,
+          41.560193
+        ]
+      },
+      "properties": {
+        "entry_id": "9530c216-c03f-4079-ac88-2958bf075b4d",
+        "created_at": "2026-03-26T15:22:41.000Z",
+        "gps_accuracy_m": 8,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=9530c216-c03f-4079-ac88-2958bf075b4d_1774538504.jpg",
+        "Photo_Filename": "9530c216-c03f-4079-ac88-2958bf075b4d_1774538504.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.141391,
+          41.560358
+        ]
+      },
+      "properties": {
+        "entry_id": "a0a3ec99-31f9-46cd-9bce-0bf865490630",
+        "created_at": "2026-03-26T15:20:49.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Block",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=a0a3ec99-31f9-46cd-9bce-0bf865490630_1774538326.jpg",
+        "Photo_Filename": "a0a3ec99-31f9-46cd-9bce-0bf865490630_1774538326.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.141029,
+          41.559324
+        ]
+      },
+      "properties": {
+        "entry_id": "ccdbfc91-aad6-4717-ba70-5d5c582ebffc",
+        "created_at": "2026-03-26T15:18:02.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Quite covered (50-75% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=ccdbfc91-aad6-4717-ba70-5d5c582ebffc_1774538132.jpg",
+        "Photo_Filename": "ccdbfc91-aad6-4717-ba70-5d5c582ebffc_1774538132.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.140874,
+          41.559054
+        ]
+      },
+      "properties": {
+        "entry_id": "5a959f03-9b6e-4d5b-8832-addd9482fdbc",
+        "created_at": "2026-03-26T15:13:56.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=5a959f03-9b6e-4d5b-8832-addd9482fdbc_1774537983.jpg",
+        "Photo_Filename": "5a959f03-9b6e-4d5b-8832-addd9482fdbc_1774537983.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.140802,
+          41.558537
+        ]
+      },
+      "properties": {
+        "entry_id": "e6973fee-d194-47cb-a8ba-f64c1a4e4fe2",
+        "created_at": "2026-03-26T15:11:57.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Ball",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=e6973fee-d194-47cb-a8ba-f64c1a4e4fe2_1774537841.jpg",
+        "Photo_Filename": "e6973fee-d194-47cb-a8ba-f64c1a4e4fe2_1774537841.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.140517,
+          41.55821
+        ]
+      },
+      "properties": {
+        "entry_id": "29e47b17-d363-4ed6-aff7-61f227d85275",
+        "created_at": "2026-03-26T15:09:41.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Hidden (75-100% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=29e47b17-d363-4ed6-aff7-61f227d85275_1774537715.jpg",
+        "Photo_Filename": "29e47b17-d363-4ed6-aff7-61f227d85275_1774537715.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.138777,
+          41.552395
+        ]
+      },
+      "properties": {
+        "entry_id": "c6411ac8-19c8-42de-9ef7-06f9b4486fbb",
+        "created_at": "2026-03-25T14:41:10.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=c6411ac8-19c8-42de-9ef7-06f9b4486fbb_1774449555.jpg",
+        "Photo_Filename": "c6411ac8-19c8-42de-9ef7-06f9b4486fbb_1774449555.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.139656,
+          41.552525
+        ]
+      },
+      "properties": {
+        "entry_id": "a78970f2-8d10-44d5-a068-7d265b7064b3",
+        "created_at": "2026-03-25T14:35:11.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Pillow",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=a78970f2-8d10-44d5-a068-7d265b7064b3_1774449238.jpg",
+        "Photo_Filename": "a78970f2-8d10-44d5-a068-7d265b7064b3_1774449238.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.139369,
+          41.55295
+        ]
+      },
+      "properties": {
+        "entry_id": "53e49a76-6108-4070-a8bd-998fb6f4a933",
+        "created_at": "2026-03-25T14:32:28.000Z",
+        "gps_accuracy_m": 8,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=53e49a76-6108-4070-a8bd-998fb6f4a933_1774449041.jpg",
+        "Photo_Filename": "53e49a76-6108-4070-a8bd-998fb6f4a933_1774449041.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.139041,
+          41.552833
+        ]
+      },
+      "properties": {
+        "entry_id": "34dbacd3-abb9-4780-9584-e96d55e5170b",
+        "created_at": "2026-03-25T14:29:28.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=34dbacd3-abb9-4780-9584-e96d55e5170b_1774448910.jpg",
+        "Photo_Filename": "34dbacd3-abb9-4780-9584-e96d55e5170b_1774448910.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.138919,
+          41.55377
+        ]
+      },
+      "properties": {
+        "entry_id": "5b26d0e3-9006-4124-ab68-6d54b0ac1f30",
+        "created_at": "2026-03-25T14:26:16.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Slab",
+          "Tablet",
+          "Ball",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=5b26d0e3-9006-4124-ab68-6d54b0ac1f30_1774448650.jpg",
+        "Photo_Filename": "5b26d0e3-9006-4124-ab68-6d54b0ac1f30_1774448650.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.139471,
+          41.555409
+        ]
+      },
+      "properties": {
+        "entry_id": "922eeb46-9b50-446f-897b-eedce746b88e",
+        "created_at": "2026-03-25T14:21:32.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Hidden (75-100% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=922eeb46-9b50-446f-897b-eedce746b88e_1774448420.jpg",
+        "Photo_Filename": "922eeb46-9b50-446f-897b-eedce746b88e_1774448420.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.139577,
+          41.555435
+        ]
+      },
+      "properties": {
+        "entry_id": "e4a9c444-3baf-481d-9f94-a9ab616ecc1b",
+        "created_at": "2026-03-25T14:19:44.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Quite covered (50-75% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=e4a9c444-3baf-481d-9f94-a9ab616ecc1b_1774448321.jpg",
+        "Photo_Filename": "e4a9c444-3baf-481d-9f94-a9ab616ecc1b_1774448321.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.139708,
+          41.556064
+        ]
+      },
+      "properties": {
+        "entry_id": "5f896af4-6fdd-496b-8783-fa916ea1b8c4",
+        "created_at": "2026-03-25T14:17:03.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=5f896af4-6fdd-496b-8783-fa916ea1b8c4_1774448162.jpg",
+        "Photo_Filename": "5f896af4-6fdd-496b-8783-fa916ea1b8c4_1774448162.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.139863,
+          41.556356
+        ]
+      },
+      "properties": {
+        "entry_id": "e4024f85-7ae8-40ed-bdbe-66c966cbf1e7",
+        "created_at": "2026-03-25T14:15:27.000Z",
+        "gps_accuracy_m": 9,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Hidden (75-100% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=e4024f85-7ae8-40ed-bdbe-66c966cbf1e7_1774448038.jpg",
+        "Photo_Filename": "e4024f85-7ae8-40ed-bdbe-66c966cbf1e7_1774448038.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.139909,
+          41.556868
+        ]
+      },
+      "properties": {
+        "entry_id": "5516e6c2-0b03-4c3a-aabe-9e146e66f98e",
+        "created_at": "2026-03-25T14:12:15.000Z",
+        "gps_accuracy_m": 8,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Ball",
+          "Pillow",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=5516e6c2-0b03-4c3a-aabe-9e146e66f98e_1774447850.jpg",
+        "Photo_Filename": "5516e6c2-0b03-4c3a-aabe-9e146e66f98e_1774447850.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.140184,
+          41.557269
+        ]
+      },
+      "properties": {
+        "entry_id": "d6ac8de1-c795-4f95-9be5-7977d0e161f2",
+        "created_at": "2026-03-25T14:09:46.000Z",
+        "gps_accuracy_m": 9,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=d6ac8de1-c795-4f95-9be5-7977d0e161f2_1774447710.jpg",
+        "Photo_Filename": "d6ac8de1-c795-4f95-9be5-7977d0e161f2_1774447710.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.140415,
+          41.558083
+        ]
+      },
+      "properties": {
+        "entry_id": "92b22c52-0968-4af3-ad1f-2583b6a6961f",
+        "created_at": "2026-03-25T14:03:21.000Z",
+        "gps_accuracy_m": 8,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=92b22c52-0968-4af3-ad1f-2583b6a6961f_1774447360.jpg",
+        "Photo_Filename": "92b22c52-0968-4af3-ad1f-2583b6a6961f_1774447360.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.140404,
+          41.557932
+        ]
+      },
+      "properties": {
+        "entry_id": "1a036ee5-2cc9-4858-816b-5edd03b2658a",
+        "created_at": "2026-03-25T14:01:57.000Z",
+        "gps_accuracy_m": 7,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Hidden (75-100% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=1a036ee5-2cc9-4858-816b-5edd03b2658a_1774447253.jpg",
+        "Photo_Filename": "1a036ee5-2cc9-4858-816b-5edd03b2658a_1774447253.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.140341,
+          41.557394
+        ]
+      },
+      "properties": {
+        "entry_id": "59b9bbe4-abb2-4893-aff5-fd201db67f77",
+        "created_at": "2026-03-25T13:59:39.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Hidden (75-100% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=59b9bbe4-abb2-4893-aff5-fd201db67f77_1774447120.jpg",
+        "Photo_Filename": "59b9bbe4-abb2-4893-aff5-fd201db67f77_1774447120.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.139063,
+          41.553814
+        ]
+      },
+      "properties": {
+        "entry_id": "00e4557e-107b-4e5e-8fe3-a7097ca12905",
+        "created_at": "2026-03-24T14:10:53.000Z",
+        "gps_accuracy_m": 9,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Pillow",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=00e4557e-107b-4e5e-8fe3-a7097ca12905_1774361378.jpg",
+        "Photo_Filename": "00e4557e-107b-4e5e-8fe3-a7097ca12905_1774361378.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148603,
+          41.499551
+        ]
+      },
+      "properties": {
+        "entry_id": "9473dcfc-51ec-4184-93e5-07830b4f0861",
+        "created_at": "2026-03-21T20:10:23.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Prism"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=9473dcfc-51ec-4184-93e5-07830b4f0861_1774123762.jpg",
+        "Photo_Filename": "9473dcfc-51ec-4184-93e5-07830b4f0861_1774123762.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148777,
+          41.49947
+        ]
+      },
+      "properties": {
+        "entry_id": "39f1b77e-50a4-4d7e-acba-38a9719592cb",
+        "created_at": "2026-03-21T20:08:28.000Z",
+        "gps_accuracy_m": 8,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Prism"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=39f1b77e-50a4-4d7e-acba-38a9719592cb_1774123645.jpg",
+        "Photo_Filename": "39f1b77e-50a4-4d7e-acba-38a9719592cb_1774123645.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148846,
+          41.499572
+        ]
+      },
+      "properties": {
+        "entry_id": "5721da91-f7a6-4b0c-be2f-2477f4c63164",
+        "created_at": "2026-03-21T20:06:37.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Prism"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=5721da91-f7a6-4b0c-be2f-2477f4c63164_1774123532.jpg",
+        "Photo_Filename": "5721da91-f7a6-4b0c-be2f-2477f4c63164_1774123532.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148846,
+          41.499558
+        ]
+      },
+      "properties": {
+        "entry_id": "84afaa3e-3324-417e-a792-3aabe7acb792",
+        "created_at": "2026-03-21T20:04:05.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Prism"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=84afaa3e-3324-417e-a792-3aabe7acb792_1774123392.jpg",
+        "Photo_Filename": "84afaa3e-3324-417e-a792-3aabe7acb792_1774123392.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148723,
+          41.499616
+        ]
+      },
+      "properties": {
+        "entry_id": "a49424f3-e74c-4e03-9036-de71c99abed6",
+        "created_at": "2026-03-21T20:00:24.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Prism"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=a49424f3-e74c-4e03-9036-de71c99abed6_1774123195.jpg",
+        "Photo_Filename": "a49424f3-e74c-4e03-9036-de71c99abed6_1774123195.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148311,
+          41.499584
+        ]
+      },
+      "properties": {
+        "entry_id": "efa807be-0bde-4809-8711-fd14093b4725",
+        "created_at": "2026-03-21T19:59:19.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Prism"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=efa807be-0bde-4809-8711-fd14093b4725_1774123127.jpg",
+        "Photo_Filename": "efa807be-0bde-4809-8711-fd14093b4725_1774123127.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148107,
+          41.499598
+        ]
+      },
+      "properties": {
+        "entry_id": "e3da8051-b919-4364-b30f-6feefd5cacd0",
+        "created_at": "2026-03-21T19:58:15.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Prism"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=e3da8051-b919-4364-b30f-6feefd5cacd0_1774123069.jpg",
+        "Photo_Filename": "e3da8051-b919-4364-b30f-6feefd5cacd0_1774123069.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148107,
+          41.499598
+        ]
+      },
+      "properties": {
+        "entry_id": "0a116109-b882-48dc-92fa-c930022a10ca",
+        "created_at": "2026-03-21T19:57:15.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Prism"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=0a116109-b882-48dc-92fa-c930022a10ca_1774122994.jpg",
+        "Photo_Filename": "0a116109-b882-48dc-92fa-c930022a10ca_1774122994.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148893,
+          41.498809
+        ]
+      },
+      "properties": {
+        "entry_id": "7307fa9d-6c7d-42cc-8ea4-9d89da3a16d0",
+        "created_at": "2026-03-21T19:53:17.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=7307fa9d-6c7d-42cc-8ea4-9d89da3a16d0_1774122763.jpg",
+        "Photo_Filename": "7307fa9d-6c7d-42cc-8ea4-9d89da3a16d0_1774122763.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148649,
+          41.498754
+        ]
+      },
+      "properties": {
+        "entry_id": "5127a82e-c5e6-48d4-a50f-afb5e1e2bfc4",
+        "created_at": "2026-03-21T19:52:04.000Z",
+        "gps_accuracy_m": 8,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Hidden (75-100% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=5127a82e-c5e6-48d4-a50f-afb5e1e2bfc4_1774122685.jpg",
+        "Photo_Filename": "5127a82e-c5e6-48d4-a50f-afb5e1e2bfc4_1774122685.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148589,
+          41.498758
+        ]
+      },
+      "properties": {
+        "entry_id": "beea9d6e-6639-40e0-a9cb-90643ac0c4d5",
+        "created_at": "2026-03-21T19:50:53.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=beea9d6e-6639-40e0-a9cb-90643ac0c4d5_1774122615.jpg",
+        "Photo_Filename": "beea9d6e-6639-40e0-a9cb-90643ac0c4d5_1774122615.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148514,
+          41.498751
+        ]
+      },
+      "properties": {
+        "entry_id": "fc3803da-569e-4457-be7e-05e747797ad7",
+        "created_at": "2026-03-21T19:49:43.000Z",
+        "gps_accuracy_m": 8,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=fc3803da-569e-4457-be7e-05e747797ad7_1774122545.jpg",
+        "Photo_Filename": "fc3803da-569e-4457-be7e-05e747797ad7_1774122545.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148514,
+          41.498751
+        ]
+      },
+      "properties": {
+        "entry_id": "17b0d9e8-674d-4021-98f2-859157b5491f",
+        "created_at": "2026-03-21T19:48:35.000Z",
+        "gps_accuracy_m": 8,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=17b0d9e8-674d-4021-98f2-859157b5491f_1774122472.jpg",
+        "Photo_Filename": "17b0d9e8-674d-4021-98f2-859157b5491f_1774122472.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148889,
+          41.498694
+        ]
+      },
+      "properties": {
+        "entry_id": "994c4777-ad2d-4861-92c8-bbbc5f498203",
+        "created_at": "2026-03-21T19:45:55.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=994c4777-ad2d-4861-92c8-bbbc5f498203_1774122302.jpg",
+        "Photo_Filename": "994c4777-ad2d-4861-92c8-bbbc5f498203_1774122302.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148964,
+          41.498734
+        ]
+      },
+      "properties": {
+        "entry_id": "f56e847a-ad63-4d32-b5dd-b8ff871e28c6",
+        "created_at": "2026-03-21T19:44:32.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=f56e847a-ad63-4d32-b5dd-b8ff871e28c6_1774122222.jpg",
+        "Photo_Filename": "f56e847a-ad63-4d32-b5dd-b8ff871e28c6_1774122222.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148742,
+          41.498883
+        ]
+      },
+      "properties": {
+        "entry_id": "68a2374b-2528-46a5-93c6-3b95d70e939d",
+        "created_at": "2026-03-21T19:43:02.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Quite covered (50-75% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=68a2374b-2528-46a5-93c6-3b95d70e939d_1774122141.jpg",
+        "Photo_Filename": "68a2374b-2528-46a5-93c6-3b95d70e939d_1774122141.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148619,
+          41.49891
+        ]
+      },
+      "properties": {
+        "entry_id": "b46466ac-70ca-4662-8764-2875183ce632",
+        "created_at": "2026-03-21T19:41:47.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=b46466ac-70ca-4662-8764-2875183ce632_1774122063.jpg",
+        "Photo_Filename": "b46466ac-70ca-4662-8764-2875183ce632_1774122063.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148397,
+          41.498911
+        ]
+      },
+      "properties": {
+        "entry_id": "c4a7d6be-3bd6-4471-81ac-4d87c3773c00",
+        "created_at": "2026-03-21T19:40:29.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Slab"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=c4a7d6be-3bd6-4471-81ac-4d87c3773c00_1774121983.jpg",
+        "Photo_Filename": "c4a7d6be-3bd6-4471-81ac-4d87c3773c00_1774121983.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148366,
+          41.498901
+        ]
+      },
+      "properties": {
+        "entry_id": "b441a96d-3767-4517-96bf-d73c730c2f68",
+        "created_at": "2026-03-21T19:39:10.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Quite covered (50-75% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=b441a96d-3767-4517-96bf-d73c730c2f68_1774121882.jpg",
+        "Photo_Filename": "b441a96d-3767-4517-96bf-d73c730c2f68_1774121882.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.147925,
+          41.496004
+        ]
+      },
+      "properties": {
+        "entry_id": "f8b0f480-2d65-4646-b1ae-0d298b9e38f2",
+        "created_at": "2026-03-21T19:17:22.000Z",
+        "gps_accuracy_m": 21,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Slab"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=f8b0f480-2d65-4646-b1ae-0d298b9e38f2_1774120492.jpg",
+        "Photo_Filename": "f8b0f480-2d65-4646-b1ae-0d298b9e38f2_1774120492.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.192712,
+          41.513381
+        ]
+      },
+      "properties": {
+        "entry_id": "edebdefb-0770-4794-80f6-da4b46b021dc",
+        "created_at": "2026-03-21T19:04:56.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Block",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=edebdefb-0770-4794-80f6-da4b46b021dc_1774119780.jpg",
+        "Photo_Filename": "edebdefb-0770-4794-80f6-da4b46b021dc_1774119780.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.192509,
+          41.513096
+        ]
+      },
+      "properties": {
+        "entry_id": "e005f6a0-2ced-40e2-98e9-600af3a81795",
+        "created_at": "2026-03-21T19:01:05.000Z",
+        "gps_accuracy_m": 9,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Block",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=e005f6a0-2ced-40e2-98e9-600af3a81795_1774119509.jpg",
+        "Photo_Filename": "e005f6a0-2ced-40e2-98e9-600af3a81795_1774119509.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.192512,
+          41.513
+        ]
+      },
+      "properties": {
+        "entry_id": "0d835afa-4f6d-4d40-b5a5-963908cfb13c",
+        "created_at": "2026-03-21T18:57:41.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Block",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=0d835afa-4f6d-4d40-b5a5-963908cfb13c_1774119203.jpg",
+        "Photo_Filename": "0d835afa-4f6d-4d40-b5a5-963908cfb13c_1774119203.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.19248,
+          41.512809
+        ]
+      },
+      "properties": {
+        "entry_id": "a79f91f9-a59d-4c34-a19a-8743b5304649",
+        "created_at": "2026-03-21T18:49:42.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=a79f91f9-a59d-4c34-a19a-8743b5304649_1774118891.jpg",
+        "Photo_Filename": "a79f91f9-a59d-4c34-a19a-8743b5304649_1774118891.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.192406,
+          41.512444
+        ]
+      },
+      "properties": {
+        "entry_id": "a4ceec12-60b8-4d10-a49a-cf22e0fb9bbe",
+        "created_at": "2026-03-21T18:46:56.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Quite covered (50-75% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=a4ceec12-60b8-4d10-a49a-cf22e0fb9bbe_1774118752.jpg",
+        "Photo_Filename": "a4ceec12-60b8-4d10-a49a-cf22e0fb9bbe_1774118752.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.192409,
+          41.512333
+        ]
+      },
+      "properties": {
+        "entry_id": "f1fc3efa-9086-4da8-b06d-bb456d767430",
+        "created_at": "2026-03-21T18:44:55.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Hidden (75-100% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=f1fc3efa-9086-4da8-b06d-bb456d767430_1774118649.jpg",
+        "Photo_Filename": "f1fc3efa-9086-4da8-b06d-bb456d767430_1774118649.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.19235,
+          41.512169
+        ]
+      },
+      "properties": {
+        "entry_id": "72eac972-73c0-46b9-9881-c3046254875d",
+        "created_at": "2026-03-21T18:42:51.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Quite covered (50-75% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=72eac972-73c0-46b9-9881-c3046254875d_1774118446.jpg",
+        "Photo_Filename": "72eac972-73c0-46b9-9881-c3046254875d_1774118446.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.192245,
+          41.512128
+        ]
+      },
+      "properties": {
+        "entry_id": "94194031-bb2c-4364-bf9a-c70e2f167a25",
+        "created_at": "2026-03-21T18:40:10.000Z",
+        "gps_accuracy_m": 13,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Quite covered (50-75% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=94194031-bb2c-4364-bf9a-c70e2f167a25_1774118329.jpg",
+        "Photo_Filename": "94194031-bb2c-4364-bf9a-c70e2f167a25_1774118329.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.192285,
+          41.512055
+        ]
+      },
+      "properties": {
+        "entry_id": "51da7dc6-17c1-4bd1-bf27-d00adb96e194",
+        "created_at": "2026-03-21T18:37:28.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Quite covered (50-75% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=51da7dc6-17c1-4bd1-bf27-d00adb96e194_1774118169.jpg",
+        "Photo_Filename": "51da7dc6-17c1-4bd1-bf27-d00adb96e194_1774118169.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.192135,
+          41.511562
+        ]
+      },
+      "properties": {
+        "entry_id": "adeaf74d-fdc5-4dc5-ac0f-27de18900394",
+        "created_at": "2026-03-21T18:35:19.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Pillow"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=adeaf74d-fdc5-4dc5-ac0f-27de18900394_1774118058.jpg",
+        "Photo_Filename": "adeaf74d-fdc5-4dc5-ac0f-27de18900394_1774118058.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.172385,
+          41.508743
+        ]
+      },
+      "properties": {
+        "entry_id": "0a4efe60-0ebd-4458-9c5f-ec86e4509792",
+        "created_at": "2026-03-21T17:19:51.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Slab",
+          "Block",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=0a4efe60-0ebd-4458-9c5f-ec86e4509792_1774113549.jpg",
+        "Photo_Filename": "0a4efe60-0ebd-4458-9c5f-ec86e4509792_1774113549.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.172591,
+          41.508737
+        ]
+      },
+      "properties": {
+        "entry_id": "3aca72a4-5a7d-4631-abb2-b64a975e88b9",
+        "created_at": "2026-03-21T17:18:14.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Tablet",
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=3aca72a4-5a7d-4631-abb2-b64a975e88b9_1774113431.jpg",
+        "Photo_Filename": "3aca72a4-5a7d-4631-abb2-b64a975e88b9_1774113431.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.172422,
+          41.508594
+        ]
+      },
+      "properties": {
+        "entry_id": "af039ad0-7fca-4244-8629-a39d57126d03",
+        "created_at": "2026-03-21T17:16:30.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Slab",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=af039ad0-7fca-4244-8629-a39d57126d03_1774113345.jpg",
+        "Photo_Filename": "af039ad0-7fca-4244-8629-a39d57126d03_1774113345.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.172269,
+          41.508639
+        ]
+      },
+      "properties": {
+        "entry_id": "db717ce9-f05c-404c-a45a-1b8a4fe7a14c",
+        "created_at": "2026-03-21T17:15:16.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Ball",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=db717ce9-f05c-404c-a45a-1b8a4fe7a14c_1774113252.jpg",
+        "Photo_Filename": "db717ce9-f05c-404c-a45a-1b8a4fe7a14c_1774113252.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.172096,
+          41.508398
+        ]
+      },
+      "properties": {
+        "entry_id": "e273edf6-52f9-4caa-9158-3cc61879921e",
+        "created_at": "2026-03-21T17:13:09.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Ball",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=e273edf6-52f9-4caa-9158-3cc61879921e_1774113145.jpg",
+        "Photo_Filename": "e273edf6-52f9-4caa-9158-3cc61879921e_1774113145.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.171999,
+          41.508216
+        ]
+      },
+      "properties": {
+        "entry_id": "fc3cef83-ecab-49da-b6a7-335f1d55c79f",
+        "created_at": "2026-03-21T17:11:43.000Z",
+        "gps_accuracy_m": 13,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Slab",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=fc3cef83-ecab-49da-b6a7-335f1d55c79f_1774112957.jpg",
+        "Photo_Filename": "fc3cef83-ecab-49da-b6a7-335f1d55c79f_1774112957.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.172101,
+          41.508133
+        ]
+      },
+      "properties": {
+        "entry_id": "3131893c-f757-4fe0-9676-e9ae89b2cd46",
+        "created_at": "2026-03-21T17:08:23.000Z",
+        "gps_accuracy_m": 14,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Block"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=3131893c-f757-4fe0-9676-e9ae89b2cd46_1774112798.jpg",
+        "Photo_Filename": "3131893c-f757-4fe0-9676-e9ae89b2cd46_1774112798.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.172308,
+          41.507938
+        ]
+      },
+      "properties": {
+        "entry_id": "e67e580c-7c6e-40fb-a6f4-db33d1bea4ce",
+        "created_at": "2026-03-21T17:05:23.000Z",
+        "gps_accuracy_m": 6,
         "gps_source": "Explicit Question",
         "Wall_Condition": "Poor",
         "Vegetation_Cover": "Some overgrowth (25-50% covered)",
         "Wall_Type": "Dumped (stones piled on ground)",
         "Stone_Shape": [
-          "Ball"
+          "Ball",
+          "Slab"
         ],
-        "Special_Features": [
-          "Flat top"
-        ],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=6b8c2e85-476f-4767-980c-f784b495df8b_1765393726.jpg",
-        "Photo_Filename": "6b8c2e85-476f-4767-980c-f784b495df8b_1765393726.jpg"
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=e67e580c-7c6e-40fb-a6f4-db33d1bea4ce_1774112678.jpg",
+        "Photo_Filename": "e67e580c-7c6e-40fb-a6f4-db33d1bea4ce_1774112678.jpg"
       }
     },
     {
@@ -135,28 +1885,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.14856,
-          41.490826
+          -71.172684,
+          41.507758
         ]
       },
       "properties": {
-        "entry_id": "3276ba57-54db-41b7-86c3-a777ecbd8fd9",
-        "created_at": "2025-12-10T15:20:55.000Z",
-        "gps_accuracy_m": 20,
+        "entry_id": "e6053274-14d5-4323-aa95-f8df4b6eac10",
+        "created_at": "2026-03-21T17:03:07.000Z",
+        "gps_accuracy_m": 4,
         "gps_source": "Explicit Question",
-        "Wall_Condition": "Poor",
+        "Wall_Condition": "Good",
         "Vegetation_Cover": "Clear (0-25% covered)",
-        "Wall_Type": "Dumped (stones piled on ground)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
         "Stone_Shape": [
-          "Ball"
+          "Ball",
+          "Slab"
         ],
-        "Special_Features": [
-          "Flat top"
-        ],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=3276ba57-54db-41b7-86c3-a777ecbd8fd9_1765380023.jpg",
-        "Photo_Filename": "3276ba57-54db-41b7-86c3-a777ecbd8fd9_1765380023.jpg"
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=e6053274-14d5-4323-aa95-f8df4b6eac10_1774112537.jpg",
+        "Photo_Filename": "e6053274-14d5-4323-aa95-f8df4b6eac10_1774112537.jpg"
       }
     },
     {
@@ -164,14 +1913,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.148765,
-          41.490879
+          -71.172779,
+          41.507778
         ]
       },
       "properties": {
-        "entry_id": "22474a6d-6407-45de-ac4d-d9446c667ea0",
-        "created_at": "2025-12-10T15:04:33.000Z",
-        "gps_accuracy_m": 20,
+        "entry_id": "90788d63-980a-48b3-a17b-9ed3e650a565",
+        "created_at": "2026-03-21T17:00:44.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=90788d63-980a-48b3-a17b-9ed3e650a565_1774112386.jpg",
+        "Photo_Filename": "90788d63-980a-48b3-a17b-9ed3e650a565_1774112386.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.172999,
+          41.508015
+        ]
+      },
+      "properties": {
+        "entry_id": "7d118ec5-1894-4de5-8943-a01cbcb5b812",
+        "created_at": "2026-03-21T16:56:29.000Z",
+        "gps_accuracy_m": 5,
         "gps_source": "Explicit Question",
         "Wall_Condition": "Poor",
         "Vegetation_Cover": "Clear (0-25% covered)",
@@ -179,12 +1956,488 @@
         "Stone_Shape": [
           "Ball"
         ],
-        "Special_Features": [
-          "Recently rebuilt"
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=7d118ec5-1894-4de5-8943-a01cbcb5b812_1774112133.jpg",
+        "Photo_Filename": "7d118ec5-1894-4de5-8943-a01cbcb5b812_1774112133.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.173015,
+          41.508068
+        ]
+      },
+      "properties": {
+        "entry_id": "e38eb8ff-eb11-4226-a814-e143e3049829",
+        "created_at": "2026-03-21T16:55:00.000Z",
+        "gps_accuracy_m": 6,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Slab",
+          "Ball"
         ],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_Reference": ""
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=e38eb8ff-eb11-4226-a814-e143e3049829_1774112050.jpg",
+        "Photo_Filename": "e38eb8ff-eb11-4226-a814-e143e3049829_1774112050.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17355,
+          41.508966
+        ]
+      },
+      "properties": {
+        "entry_id": "66aabf22-6dd1-49b5-9863-8249c9c9f98a",
+        "created_at": "2026-03-21T16:53:20.000Z",
+        "gps_accuracy_m": 78,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Slab"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=66aabf22-6dd1-49b5-9863-8249c9c9f98a_1774111950.jpg",
+        "Photo_Filename": "66aabf22-6dd1-49b5-9863-8249c9c9f98a_1774111950.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.173323,
+          41.509029
+        ]
+      },
+      "properties": {
+        "entry_id": "2edebffb-26a5-4ac5-9692-2c8313d397ad",
+        "created_at": "2026-03-21T16:50:38.000Z",
+        "gps_accuracy_m": 51,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Slab",
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=2edebffb-26a5-4ac5-9692-2c8313d397ad_1774111784.jpg",
+        "Photo_Filename": "2edebffb-26a5-4ac5-9692-2c8313d397ad_1774111784.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17313,
+          41.509075
+        ]
+      },
+      "properties": {
+        "entry_id": "5ef5ba30-feec-4515-b5d1-de15a94e6d66",
+        "created_at": "2026-03-21T16:48:00.000Z",
+        "gps_accuracy_m": 52,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Slab",
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=5ef5ba30-feec-4515-b5d1-de15a94e6d66_1774111546.jpg",
+        "Photo_Filename": "5ef5ba30-feec-4515-b5d1-de15a94e6d66_1774111546.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.172655,
+          41.508692
+        ]
+      },
+      "properties": {
+        "entry_id": "bafe7bb2-bf0f-4cba-b79d-f0923b0387f5",
+        "created_at": "2026-03-21T16:43:52.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Slab",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=bafe7bb2-bf0f-4cba-b79d-f0923b0387f5_1774111381.jpg",
+        "Photo_Filename": "bafe7bb2-bf0f-4cba-b79d-f0923b0387f5_1774111381.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.172651,
+          41.5087
+        ]
+      },
+      "properties": {
+        "entry_id": "d547e471-c509-451a-aa29-378b233138cd",
+        "created_at": "2026-03-21T16:42:14.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Slab",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=d547e471-c509-451a-aa29-378b233138cd_1774111270.jpg",
+        "Photo_Filename": "d547e471-c509-451a-aa29-378b233138cd_1774111270.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.172961,
+          41.508682
+        ]
+      },
+      "properties": {
+        "entry_id": "b0e97fcc-d0ff-4b02-836e-d5fc6a22d731",
+        "created_at": "2026-03-21T16:40:30.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Slab",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=b0e97fcc-d0ff-4b02-836e-d5fc6a22d731_1774111158.jpg",
+        "Photo_Filename": "b0e97fcc-d0ff-4b02-836e-d5fc6a22d731_1774111158.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.173153,
+          41.508909
+        ]
+      },
+      "properties": {
+        "entry_id": "6955cdce-0415-4dd0-99dd-aee1aca1c1b1",
+        "created_at": "2026-03-21T16:38:12.000Z",
+        "gps_accuracy_m": 13,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Slab",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=6955cdce-0415-4dd0-99dd-aee1aca1c1b1_1774111006.jpg",
+        "Photo_Filename": "6955cdce-0415-4dd0-99dd-aee1aca1c1b1_1774111006.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17297,
+          41.508963
+        ]
+      },
+      "properties": {
+        "entry_id": "2f2976fc-6eec-4ed3-9504-e2677ca4c2de",
+        "created_at": "2026-03-21T16:33:55.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Tablet",
+          "Slab"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=2f2976fc-6eec-4ed3-9504-e2677ca4c2de_1774110609.jpg",
+        "Photo_Filename": "2f2976fc-6eec-4ed3-9504-e2677ca4c2de_1774110609.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13859,
+          41.552864
+        ]
+      },
+      "properties": {
+        "entry_id": "6288eb54-e4fb-440e-9b28-5f8ca6dc5b20",
+        "created_at": "2026-03-21T15:04:45.000Z",
+        "gps_accuracy_m": 9,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Quite covered (50-75% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=6288eb54-e4fb-440e-9b28-5f8ca6dc5b20_1774105421.jpg",
+        "Photo_Filename": "6288eb54-e4fb-440e-9b28-5f8ca6dc5b20_1774105421.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.138771,
+          41.553399
+        ]
+      },
+      "properties": {
+        "entry_id": "25cff381-ee3e-493b-93f5-523610894f72",
+        "created_at": "2026-03-21T15:02:15.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=25cff381-ee3e-493b-93f5-523610894f72_1774105270.jpg",
+        "Photo_Filename": "25cff381-ee3e-493b-93f5-523610894f72_1774105270.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.138959,
+          41.553391
+        ]
+      },
+      "properties": {
+        "entry_id": "15a2524a-16f1-4e6f-88cf-171a1b336cba",
+        "created_at": "2026-03-21T14:59:58.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=15a2524a-16f1-4e6f-88cf-171a1b336cba_1774105119.jpg",
+        "Photo_Filename": "15a2524a-16f1-4e6f-88cf-171a1b336cba_1774105119.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.138842,
+          41.553205
+        ]
+      },
+      "properties": {
+        "entry_id": "b2fd87dc-5657-4b24-9beb-14457dfb20d8",
+        "created_at": "2026-03-21T14:57:59.000Z",
+        "gps_accuracy_m": 5,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=b2fd87dc-5657-4b24-9beb-14457dfb20d8_1774104975.jpg",
+        "Photo_Filename": "b2fd87dc-5657-4b24-9beb-14457dfb20d8_1774104975.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.138651,
+          41.553127
+        ]
+      },
+      "properties": {
+        "entry_id": "df5ab034-3ad1-4f86-baf6-9c44ac977719",
+        "created_at": "2026-03-21T14:55:21.000Z",
+        "gps_accuracy_m": 9,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=df5ab034-3ad1-4f86-baf6-9c44ac977719_1774104857.jpg",
+        "Photo_Filename": "df5ab034-3ad1-4f86-baf6-9c44ac977719_1774104857.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.172678,
+          41.509681
+        ]
+      },
+      "properties": {
+        "entry_id": "47da1ea3-880f-4a4a-a0cf-7d714150bcfc",
+        "created_at": "2026-03-21T13:39:45.000Z",
+        "gps_accuracy_m": 13,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Slab",
+          "Ball",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=47da1ea3-880f-4a4a-a0cf-7d714150bcfc_1774099545.jpg",
+        "Photo_Filename": "47da1ea3-880f-4a4a-a0cf-7d714150bcfc_1774099545.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.172574,
+          41.509836
+        ]
+      },
+      "properties": {
+        "entry_id": "f37c5262-dc14-41ec-a3d3-181a61a0c9a5",
+        "created_at": "2026-03-21T13:39:43.000Z",
+        "gps_accuracy_m": 10,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=f37c5262-dc14-41ec-a3d3-181a61a0c9a5_1774099537.jpg",
+        "Photo_Filename": "f37c5262-dc14-41ec-a3d3-181a61a0c9a5_1774099537.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.170446,
+          41.553171
+        ]
+      },
+      "properties": {
+        "entry_id": "07f7235c-523e-4d38-847c-75257c4d84e1",
+        "created_at": "2026-02-27T21:16:45.000Z",
+        "gps_accuracy_m": 4,
+        "gps_source": "Explicit Question",
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Prism",
+          "Block",
+          "Pillow",
+          "Tablet"
+        ],
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=07f7235c-523e-4d38-847c-75257c4d84e1_1772226935.jpg",
+        "Photo_Filename": "07f7235c-523e-4d38-847c-75257c4d84e1_1772226935.jpg"
       }
     },
     {
@@ -207,754 +2460,11 @@
         "Stone_Shape": [
           "Ball"
         ],
-        "Special_Features": [],
-        "Surveyor_Name": "Perky",
-        "Comments": "",
+        "Special_Features": null,
+        "Surveyor_Name": null,
+        "Comments": null,
         "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=624e5438-5ffa-4d24-9989-312816aacc05_1765213844.jpg",
         "Photo_Filename": "624e5438-5ffa-4d24-9989-312816aacc05_1765213844.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.178545,
-          41.480528
-        ]
-      },
-      "properties": {
-        "entry_id": "40e486d7-e12b-43f2-b9a4-75da65ad9c57",
-        "created_at": "2025-12-08T17:08:17.000Z",
-        "gps_accuracy_m": 4,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Fair",
-        "Vegetation_Cover": "Quite covered (50-75% covered)",
-        "Wall_Type": "Laid (carefully selected and fitted)",
-        "Stone_Shape": [
-          "Ball"
-        ],
-        "Special_Features": [
-          "Good candidate for repair"
-        ],
-        "Surveyor_Name": "Perky",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=40e486d7-e12b-43f2-b9a4-75da65ad9c57_1765213662.jpg",
-        "Photo_Filename": "40e486d7-e12b-43f2-b9a4-75da65ad9c57_1765213662.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.178545,
-          41.480528
-        ]
-      },
-      "properties": {
-        "entry_id": "eb5aa62b-8a59-487a-a3c1-ed010b5e3be2",
-        "created_at": "2025-12-08T17:03:14.000Z",
-        "gps_accuracy_m": 8,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Good",
-        "Vegetation_Cover": "Clear (0-25% covered)",
-        "Wall_Type": "Laid (carefully selected and fitted)",
-        "Stone_Shape": [
-          "Ball"
-        ],
-        "Special_Features": [
-          "Other (add comment)"
-        ],
-        "Surveyor_Name": "Perky",
-        "Comments": "Could be repaired but it\u2019s in good enough shape",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=eb5aa62b-8a59-487a-a3c1-ed010b5e3be2_1765211886.jpg",
-        "Photo_Filename": "eb5aa62b-8a59-487a-a3c1-ed010b5e3be2_1765211886.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.148019,
-          41.49305
-        ]
-      },
-      "properties": {
-        "entry_id": "5677845e-54bc-4150-ab26-9091076f35fe",
-        "created_at": "2025-11-24T20:41:36.000Z",
-        "gps_accuracy_m": 8,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Poor",
-        "Vegetation_Cover": "Hidden (75-100% covered)",
-        "Wall_Type": "Stacked (stones placed loosely)",
-        "Stone_Shape": [
-          "Block",
-          "Prism",
-          "Ball"
-        ],
-        "Special_Features": [
-          "Good candidate for repair"
-        ],
-        "Surveyor_Name": "Donna",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=5677845e-54bc-4150-ab26-9091076f35fe_1764016818.jpg",
-        "Photo_Filename": "5677845e-54bc-4150-ab26-9091076f35fe_1764016818.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.148639,
-          41.492682
-        ]
-      },
-      "properties": {
-        "entry_id": "1dff0308-48fe-450d-afde-9241620dcc7d",
-        "created_at": "2025-11-24T20:38:37.000Z",
-        "gps_accuracy_m": 8,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Good",
-        "Vegetation_Cover": "Clear (0-25% covered)",
-        "Wall_Type": "Laid (carefully selected and fitted)",
-        "Stone_Shape": [
-          "Ball"
-        ],
-        "Special_Features": [
-          "Recently rebuilt"
-        ],
-        "Surveyor_Name": "Donna",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=1dff0308-48fe-450d-afde-9241620dcc7d_1764016694.jpg",
-        "Photo_Filename": "1dff0308-48fe-450d-afde-9241620dcc7d_1764016694.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.148584,
-          41.492698
-        ]
-      },
-      "properties": {
-        "entry_id": "12a32598-389f-4e25-82c5-d0e9cac2491b",
-        "created_at": "2025-11-24T20:36:32.000Z",
-        "gps_accuracy_m": 3,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Good",
-        "Vegetation_Cover": "Clear (0-25% covered)",
-        "Wall_Type": "Laid (carefully selected and fitted)",
-        "Stone_Shape": [
-          "Ball"
-        ],
-        "Special_Features": [
-          "Recently rebuilt"
-        ],
-        "Surveyor_Name": "Donna",
-        "Comments": "",
-        "Photo_Reference": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.148682,
-          41.492654
-        ]
-      },
-      "properties": {
-        "entry_id": "56251302-d341-46a6-adaa-f3ca07d1a23e",
-        "created_at": "2025-11-24T20:34:33.000Z",
-        "gps_accuracy_m": 8,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Good",
-        "Vegetation_Cover": "Clear (0-25% covered)",
-        "Wall_Type": "Laid (carefully selected and fitted)",
-        "Stone_Shape": [
-          "Ball"
-        ],
-        "Special_Features": [],
-        "Surveyor_Name": "Donna",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=56251302-d341-46a6-adaa-f3ca07d1a23e_1764016410.jpg",
-        "Photo_Filename": "56251302-d341-46a6-adaa-f3ca07d1a23e_1764016410.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.148755,
-          41.492615
-        ]
-      },
-      "properties": {
-        "entry_id": "a7383a32-95fc-4257-bb5b-3f843ce25025",
-        "created_at": "2025-11-24T20:32:32.000Z",
-        "gps_accuracy_m": 7,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Good",
-        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
-        "Wall_Type": "Stacked (stones placed loosely)",
-        "Stone_Shape": [
-          "Block"
-        ],
-        "Special_Features": [],
-        "Surveyor_Name": "Donna",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=a7383a32-95fc-4257-bb5b-3f843ce25025_1764016244.jpg",
-        "Photo_Filename": "a7383a32-95fc-4257-bb5b-3f843ce25025_1764016244.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.134697,
-          41.542394
-        ]
-      },
-      "properties": {
-        "entry_id": "cb6a0f7d-6f63-4f50-9645-167638583ba7",
-        "created_at": "2025-11-09T16:46:44.000Z",
-        "gps_accuracy_m": 5,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Poor",
-        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
-        "Wall_Type": "Stacked (stones placed loosely)",
-        "Stone_Shape": [
-          "Ball",
-          "Pillow"
-        ],
-        "Special_Features": [
-          "Other (add comment)"
-        ],
-        "Surveyor_Name": "Sl",
-        "Comments": "Off road.  On old path of road",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=cb6a0f7d-6f63-4f50-9645-167638583ba7_1762706737.jpg",
-        "Photo_Filename": "cb6a0f7d-6f63-4f50-9645-167638583ba7_1762706737.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.134893,
-          41.540371
-        ]
-      },
-      "properties": {
-        "entry_id": "2acdd4c4-b950-418b-b894-872ed65dc14e",
-        "created_at": "2025-11-09T16:43:24.000Z",
-        "gps_accuracy_m": 5,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Poor",
-        "Vegetation_Cover": "Quite covered (50-75% covered)",
-        "Wall_Type": "Dumped (stones piled on ground)",
-        "Stone_Shape": [
-          "Ball",
-          "Block"
-        ],
-        "Special_Features": [],
-        "Surveyor_Name": "Sl",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=2acdd4c4-b950-418b-b894-872ed65dc14e_1762706572.jpg",
-        "Photo_Filename": "2acdd4c4-b950-418b-b894-872ed65dc14e_1762706572.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.13481,
-          41.540236
-        ]
-      },
-      "properties": {
-        "entry_id": "25a5c775-b317-4830-9935-a1ea70cd2998",
-        "created_at": "2025-11-09T16:42:22.000Z",
-        "gps_accuracy_m": 14,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Poor",
-        "Vegetation_Cover": "Clear (0-25% covered)",
-        "Wall_Type": "Stacked (stones placed loosely)",
-        "Stone_Shape": [
-          "Ball",
-          "Pillow"
-        ],
-        "Special_Features": [],
-        "Surveyor_Name": "Sl",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=25a5c775-b317-4830-9935-a1ea70cd2998_1762706492.jpg",
-        "Photo_Filename": "25a5c775-b317-4830-9935-a1ea70cd2998_1762706492.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.134449,
-          41.539171
-        ]
-      },
-      "properties": {
-        "entry_id": "787c0e52-d442-49d5-8109-b99c313c4370",
-        "created_at": "2025-11-09T16:39:39.000Z",
-        "gps_accuracy_m": 4,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Poor",
-        "Vegetation_Cover": "Clear (0-25% covered)",
-        "Wall_Type": "Stacked (stones placed loosely)",
-        "Stone_Shape": [
-          "Ball",
-          "Slab"
-        ],
-        "Special_Features": [
-          "Opening in wall"
-        ],
-        "Surveyor_Name": "Sl",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=787c0e52-d442-49d5-8109-b99c313c4370_1762706346.jpg",
-        "Photo_Filename": "787c0e52-d442-49d5-8109-b99c313c4370_1762706346.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.134407,
-          41.538404
-        ]
-      },
-      "properties": {
-        "entry_id": "ca109998-af5f-4ddf-bef7-da9739445195",
-        "created_at": "2025-11-09T16:38:28.000Z",
-        "gps_accuracy_m": 23,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Poor",
-        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
-        "Wall_Type": "Stacked (stones placed loosely)",
-        "Stone_Shape": [
-          "Ball",
-          "Slab"
-        ],
-        "Special_Features": [],
-        "Surveyor_Name": "Sl",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=ca109998-af5f-4ddf-bef7-da9739445195_1762706270.jpg",
-        "Photo_Filename": "ca109998-af5f-4ddf-bef7-da9739445195_1762706270.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.135588,
-          41.550937
-        ]
-      },
-      "properties": {
-        "entry_id": "f65f3100-0495-4c34-9fe6-33ca38919d34",
-        "created_at": "2025-11-04T21:37:47.000Z",
-        "gps_accuracy_m": 5,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Poor",
-        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
-        "Wall_Type": "Stacked (stones placed loosely)",
-        "Stone_Shape": [
-          "Ball",
-          "Pillow"
-        ],
-        "Special_Features": [
-          "Other (add comment)",
-          "Double-sided"
-        ],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=f65f3100-0495-4c34-9fe6-33ca38919d34_1762289274.jpg",
-        "Photo_Filename": "f65f3100-0495-4c34-9fe6-33ca38919d34_1762289274.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.160765,
-          41.503172
-        ]
-      },
-      "properties": {
-        "entry_id": "9479ffe0-de7a-4282-b9d1-2640d23c9619",
-        "created_at": "2025-11-04T16:23:46.000Z",
-        "gps_accuracy_m": 3,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Poor",
-        "Vegetation_Cover": "Hidden (75-100% covered)",
-        "Wall_Type": "Dumped (stones piled on ground)",
-        "Stone_Shape": [
-          "Ball",
-          "Pillow",
-          "Tablet"
-        ],
-        "Special_Features": [
-          "Other (add comment)"
-        ],
-        "Surveyor_Name": "Adam Yorks",
-        "Comments": "An old farm wall on the edge of a swamp",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=9479ffe0-de7a-4282-b9d1-2640d23c9619_1762273340.jpg",
-        "Photo_Filename": "9479ffe0-de7a-4282-b9d1-2640d23c9619_1762273340.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.135699,
-          41.551033
-        ]
-      },
-      "properties": {
-        "entry_id": "7901ea8c-f80e-44ca-a23f-d03a9223b570",
-        "created_at": "2025-11-01T14:42:38.000Z",
-        "gps_accuracy_m": 13,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Poor",
-        "Vegetation_Cover": "Some overgrowth (25-50% covered)",
-        "Wall_Type": "Stacked (stones placed loosely)",
-        "Stone_Shape": [
-          "Block",
-          "Pillow"
-        ],
-        "Special_Features": [
-          "Double-sided"
-        ],
-        "Surveyor_Name": "Sl",
-        "Comments": "",
-        "Photo_Reference": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.158994,
-          41.491118
-        ]
-      },
-      "properties": {
-        "entry_id": "6e2d75ff-0a38-41cc-8baa-326eead58ff5",
-        "created_at": "2025-10-24T16:12:41.000Z",
-        "gps_accuracy_m": 5,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Good",
-        "Vegetation_Cover": "",
-        "Wall_Type": "",
-        "Stone_Shape": [],
-        "Special_Features": [],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=6e2d75ff-0a38-41cc-8baa-326eead58ff5_1761322356.jpg",
-        "Photo_Filename": "6e2d75ff-0a38-41cc-8baa-326eead58ff5_1761322356.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.187496,
-          41.466305
-        ]
-      },
-      "properties": {
-        "entry_id": "59db3234-c25e-4982-a1ab-24a9ea440455",
-        "created_at": "2025-10-15T18:15:46.000Z",
-        "gps_accuracy_m": 4,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Good",
-        "Vegetation_Cover": "",
-        "Wall_Type": "",
-        "Stone_Shape": [],
-        "Special_Features": [],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=59db3234-c25e-4982-a1ab-24a9ea440455_1760552141.jpg",
-        "Photo_Filename": "59db3234-c25e-4982-a1ab-24a9ea440455_1760552141.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.178306,
-          41.47982
-        ]
-      },
-      "properties": {
-        "entry_id": "16db1c09-d323-48ae-aae1-eddf6662a3c0",
-        "created_at": "2025-10-01T19:17:51.000Z",
-        "gps_accuracy_m": 4,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Good",
-        "Vegetation_Cover": "Clear (0-25% covered)",
-        "Wall_Type": "Laid (carefully selected and fitted)",
-        "Stone_Shape": [
-          "Block"
-        ],
-        "Special_Features": [
-          "Opening in wall"
-        ],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=16db1c09-d323-48ae-aae1-eddf6662a3c0_1759346106.jpg",
-        "Photo_Filename": "16db1c09-d323-48ae-aae1-eddf6662a3c0_1759346106.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.178187,
-          41.479603
-        ]
-      },
-      "properties": {
-        "entry_id": "ef343834-8e8f-44a1-8910-94f48404d296",
-        "created_at": "2025-10-01T19:14:06.000Z",
-        "gps_accuracy_m": 4,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Fair",
-        "Vegetation_Cover": "Hidden (75-100% covered)",
-        "Wall_Type": "Stacked (stones placed loosely)",
-        "Stone_Shape": [
-          "Ball"
-        ],
-        "Special_Features": [
-          "Good candidate for repair"
-        ],
-        "Surveyor_Name": "Perky",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=ef343834-8e8f-44a1-8910-94f48404d296_1759346038.jpg",
-        "Photo_Filename": "ef343834-8e8f-44a1-8910-94f48404d296_1759346038.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.166544,
-          41.542035
-        ]
-      },
-      "properties": {
-        "entry_id": "4d893dbd-7359-438e-9877-7a78bcd115e0",
-        "created_at": "2025-09-28T22:09:11.000Z",
-        "gps_accuracy_m": 4,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Fair",
-        "Vegetation_Cover": "",
-        "Wall_Type": "",
-        "Stone_Shape": [],
-        "Special_Features": [],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=4d893dbd-7359-438e-9877-7a78bcd115e0_1759097345.jpg",
-        "Photo_Filename": "4d893dbd-7359-438e-9877-7a78bcd115e0_1759097345.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.170989,
-          41.525253
-        ]
-      },
-      "properties": {
-        "entry_id": "081a4861-c039-457d-b91b-705f6205bc12",
-        "created_at": "2025-09-27T15:09:17.000Z",
-        "gps_accuracy_m": 6,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Poor",
-        "Vegetation_Cover": "",
-        "Wall_Type": "",
-        "Stone_Shape": [],
-        "Special_Features": [],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=081a4861-c039-457d-b91b-705f6205bc12_1758985747.jpg",
-        "Photo_Filename": "081a4861-c039-457d-b91b-705f6205bc12_1758985747.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.146745,
-          41.537158
-        ]
-      },
-      "properties": {
-        "entry_id": "47ae1d10-a006-4d80-882f-f1b9ad9a2797",
-        "created_at": "2025-09-26T20:02:44.000Z",
-        "gps_accuracy_m": 4,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Good",
-        "Vegetation_Cover": "",
-        "Wall_Type": "",
-        "Stone_Shape": [],
-        "Special_Features": [],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=47ae1d10-a006-4d80-882f-f1b9ad9a2797_1758916945.jpg",
-        "Photo_Filename": "47ae1d10-a006-4d80-882f-f1b9ad9a2797_1758916945.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.143063,
-          41.538982
-        ]
-      },
-      "properties": {
-        "entry_id": "ab595492-5e06-465f-8395-25c6bfcb0b7a",
-        "created_at": "2025-09-26T19:56:20.000Z",
-        "gps_accuracy_m": 4,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Fair",
-        "Vegetation_Cover": "",
-        "Wall_Type": "",
-        "Stone_Shape": [],
-        "Special_Features": [],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=ab595492-5e06-465f-8395-25c6bfcb0b7a_1758916486.jpg",
-        "Photo_Filename": "ab595492-5e06-465f-8395-25c6bfcb0b7a_1758916486.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.141011,
-          41.538314
-        ]
-      },
-      "properties": {
-        "entry_id": "d838076d-e56e-4950-bc10-da39dae7ace2",
-        "created_at": "2025-09-26T19:49:30.000Z",
-        "gps_accuracy_m": 5,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Fair",
-        "Vegetation_Cover": "",
-        "Wall_Type": "",
-        "Stone_Shape": [],
-        "Special_Features": [],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=d838076d-e56e-4950-bc10-da39dae7ace2_1758916157.jpg",
-        "Photo_Filename": "d838076d-e56e-4950-bc10-da39dae7ace2_1758916157.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.133986,
-          41.537363
-        ]
-      },
-      "properties": {
-        "entry_id": "c0a4bbea-ff36-4379-9915-80796c4ad211",
-        "created_at": "2025-09-26T14:50:43.000Z",
-        "gps_accuracy_m": 6,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Poor",
-        "Vegetation_Cover": "",
-        "Wall_Type": "",
-        "Stone_Shape": [],
-        "Special_Features": [],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=c0a4bbea-ff36-4379-9915-80796c4ad211_1758898237.jpg",
-        "Photo_Filename": "c0a4bbea-ff36-4379-9915-80796c4ad211_1758898237.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.148802,
-          41.490836
-        ]
-      },
-      "properties": {
-        "entry_id": "8de35fe9-191d-4bf3-93cf-6be3e9d58de0",
-        "created_at": "2025-09-25T17:46:13.000Z",
-        "gps_accuracy_m": 5,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Good",
-        "Vegetation_Cover": "",
-        "Wall_Type": "",
-        "Stone_Shape": [],
-        "Special_Features": [],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=8de35fe9-191d-4bf3-93cf-6be3e9d58de0_1758822361.jpg",
-        "Photo_Filename": "8de35fe9-191d-4bf3-93cf-6be3e9d58de0_1758822361.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.171226,
-          41.51025
-        ]
-      },
-      "properties": {
-        "entry_id": "a4d38968-4321-4d93-8cff-fc7e46c503cc",
-        "created_at": "2025-09-25T16:41:30.000Z",
-        "gps_accuracy_m": 4,
-        "gps_source": "Explicit Question",
-        "Wall_Condition": "Good",
-        "Vegetation_Cover": "",
-        "Wall_Type": "",
-        "Stone_Shape": [],
-        "Special_Features": [],
-        "Surveyor_Name": "",
-        "Comments": "",
-        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=a4d38968-4321-4d93-8cff-fc7e46c503cc_1758818485.jpg",
-        "Photo_Filename": "a4d38968-4321-4d93-8cff-fc7e46c503cc_1758818485.jpg"
       }
     }
   ]
