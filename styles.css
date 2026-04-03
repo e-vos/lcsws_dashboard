@@ -222,7 +222,7 @@ body, html {
 }
 
 .sidebar-toggle:hover {
-    background-color: #9de0be;
+    background-color: #e93b3bc9;
     border: 1px solid var(--accent);
     transition: 0.5s ease;
 }
