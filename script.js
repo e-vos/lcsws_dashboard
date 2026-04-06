@@ -56,8 +56,8 @@ const miniMap = new L.Control.MiniMap(
 ).addTo(map);
 
 const markers = L.markerClusterGroup({
-    maxClusterRadius: 150,
-    disableClusteringAtZoom: 18
+    maxClusterRadius: 50,
+    disableClusteringAtZoom: 15
 });
 
 let featureData = [];
