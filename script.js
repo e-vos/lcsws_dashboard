@@ -1,7 +1,7 @@
 /*
     filename: script.js
     author: Elliot Vosburgh
-    last updated: 12 december 2025
+    last updated: 4 august 2025
     description:
         javascript for Little Compton Stone Wall Stewards dashboard
 */
@@ -52,6 +52,9 @@ const miniMap = new L.Control.MiniMap(
     {
         toggleDisplay: false,
         zoomLevelOffset: -4,
+        mapOptions: {
+            preferCanvas: true,
+        },
     }
 ).addTo(map);
 
@@ -109,6 +112,7 @@ fetch('data.geojson')
 
         populateFilters(featureData);
         populateRecentEntries(featureData);
+        renderGallery(featureData);
 
         const geoJsonLayer = L.geoJSON(data, {
             pointToLayer: (feature, latlng) => {
@@ -238,6 +242,8 @@ function applyFilters() {
 
     markers.addLayer(newLayer);
     updateMarkerColors();
+
+    renderGallery(filtered);
 }
 
 document.getElementById("search-bar").addEventListener("input", applyFilters);
@@ -285,6 +291,121 @@ function populateRecentEntries(features) {
         list.appendChild(div);
     });
 }
+
+// GALLERY
+function renderGallery(features) {
+    const grid = document.getElementById("gallery-grid");
+    const empty = document.getElementById("gallery-empty");
+    grid.innerHTML = "";
+
+    const withPhotos = features
+        .filter(f => f.properties.Photo_URL)
+        .sort((a, b) => new Date(b.properties.created_at) - new Date(a.properties.created_at));
+
+    if (!withPhotos.length) {
+        empty.style.display = "block";
+        return;
+    }
+    empty.style.display = "none";
+
+    withPhotos.forEach(f => {
+        const p = f.properties;
+        const date = p.created_at ? new Date(p.created_at).toLocaleDateString() : "";
+
+        const card = document.createElement("div");
+        card.className = "gallery-card";
+
+        card.innerHTML = `
+            <img class="gallery-card-photo" src="${p.Photo_URL}" alt="Stone wall photo" loading="lazy" />
+            <div class="gallery-card-info">
+                <div class="gallery-card-row"><b>Wall Type:</b> ${p.Wall_Type || "Not given"}</div>
+                <div class="gallery-card-row"><b>Condition:</b> ${p.Wall_Condition || "Not given"}</div>
+                <div class="gallery-card-row"><b>Vegetation:</b> ${p.Vegetation_Cover || "Not given"}</div>
+                ${p.Surveyor_Name ? `<div class="gallery-card-row"><b>Collected by:</b> ${p.Surveyor_Name}</div>` : ""}
+                <div class="gallery-card-date">${date}</div>
+            </div>
+        `;
+
+        card.addEventListener("click", () => {
+            const marker = markerIndex[p.entry_id];
+            closeGallery();
+
+            if (marker) {
+                map.setView(marker.getLatLng(), 18);
+                marker.openPopup();
+            }
+        });
+
+        grid.appendChild(card);
+    });
+}
+
+const galleryModal = document.getElementById("gallery-modal");
+const galleryPanel = document.getElementById("gallery-modal-panel");
+const galleryOpenBtn = document.getElementById("view-toggle-btn");
+const galleryCloseBtn = document.getElementById("gallery-close-btn");
+
+function openGallery() {
+    galleryModal.classList.add("open");
+}
+
+function closeGallery() {
+    galleryModal.classList.remove("open");
+    galleryPanel.classList.remove("dragging");
+    galleryPanel.style.transform = "";
+}
+
+galleryOpenBtn.addEventListener("click", openGallery);
+galleryCloseBtn.addEventListener("click", closeGallery);
+
+document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && galleryModal.classList.contains("open")) {
+        closeGallery();
+    }
+});
+
+// Click on the translucent margin (outside the panel) closes the modal
+galleryModal.addEventListener("click", (e) => {
+    if (e.target === galleryModal) {
+        closeGallery();
+    }
+});
+
+// Swipe down on the drag handle / header closes the modal (mobile)
+const gallerySwipeZones = galleryPanel.querySelectorAll(".gallery-modal-drag-handle, .gallery-modal-header");
+let swipeStartY = null;
+
+function handleSwipeStart(e) {
+    swipeStartY = e.touches[0].clientY;
+    galleryPanel.classList.add("dragging");
+}
+
+function handleSwipeMove(e) {
+    if (swipeStartY === null) return;
+    const deltaY = e.touches[0].clientY - swipeStartY;
+    if (deltaY > 0) {
+        galleryPanel.style.transform = `translateY(${deltaY}px)`;
+    }
+}
+
+function handleSwipeEnd(e) {
+    if (swipeStartY === null) return;
+    const deltaY = (e.changedTouches[0]?.clientY ?? swipeStartY) - swipeStartY;
+    galleryPanel.classList.remove("dragging");
+
+    if (deltaY > 100) {
+        closeGallery();
+    } else {
+        galleryPanel.style.transform = "";
+    }
+    swipeStartY = null;
+}
+
+gallerySwipeZones.forEach(zone => {
+    zone.addEventListener("touchstart", handleSwipeStart, { passive: true });
+    zone.addEventListener("touchmove", handleSwipeMove, { passive: true });
+    zone.addEventListener("touchend", handleSwipeEnd);
+});
 
 // SIDEBAR TOGGLE
 const sidebar = document.getElementById('sidebar');

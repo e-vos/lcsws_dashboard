@@ -23,6 +23,7 @@
     <nav class="top-nav">
 		<img id="nav-img" src="assets/cover.jpg">
 		<span id="nav-title">Little Compton Stone Wall Stewards</span>
+		<button id="view-toggle-btn" class="btn-secondary view-toggle-btn">Gallery view</button>
     </nav>
 
 	<aside id="sidebar" class="sidebar modern-sidebar">
@@ -44,9 +45,6 @@
 
 		<section class="sidebar-card">
 			<h2 class="sidebar-title">Filters</h2>
-			<p class="sidebar-text">
-				Adjust the data being displayed on the map
-			</p>
 
 			<div class="form-group">
 				<input id="search-bar" type="text" placeholder="Search by keyword, volunteer name, etc..." class="input-field">
@@ -73,7 +71,7 @@
         <section class="sidebar-card">
             <h2 class="sidebar-title">Data attribution</h2>
             <p class="sidebar-text">
-                Dashboard and wall data by <a href="https://vosburgh.dev">Elliot Vosburgh</a>
+                Application and wall data by <a href="https://vosburgh.dev">Elliot Vosburgh</a>
             </p>
             <p class="sidebar-text">
                 Basemap provided by <a href="https://www.openstreetmap.org/copyright">OSM</a>, <a href="https://carto.com/">CARTO</a>, and <a href="https://www.esri.com/en-us/home">Esri</a>
@@ -104,10 +102,23 @@
 	</aside>
 	<button id="toggle-btn" class="sidebar-toggle">❮</button>
 
-	<div class="container">
+	<div id="container" class="container">
 		<main class="map-container">
 			<div id="map"></div>
 		</main>
+	</div>
+
+	<div id="gallery-modal" class="gallery-modal">
+		<div id="gallery-modal-panel" class="gallery-modal-panel">
+			<div class="gallery-modal-drag-handle"></div>
+			<header class="gallery-modal-header">
+				<button id="gallery-close-btn" class="gallery-modal-close" aria-label="Close gallery">✕</button>
+			</header>
+			<div class="gallery-modal-body">
+				<div id="gallery-empty" class="gallery-empty" style="display: none;">No photos match the current filters. Please use a different selection or reset your selection in the sidebar.</div>
+				<div id="gallery-grid" class="gallery-grid"></div>
+			</div>
+		</div>
 	</div>
 
 	<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
