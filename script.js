@@ -9,8 +9,8 @@
 // LEAFLET
 const map = L.map('map', { zoomControl: false, attributionControl: false }).setView([0, 0], 2);
 
-const roads = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> | &copy; <a href="https://carto.com/">CARTO</a> | Application © <a href="https://vosburgh.dev">Elliot Vosburgh</a>',
+const roads = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> | Application © <a href="https://vosburgh.dev">Elliot Vosburgh</a>',
     subdomains: 'abcd',
     maxZoom: 23,
 });
@@ -44,9 +44,8 @@ updateLayersControlPosition();
 window.addEventListener("resize", updateLayersControlPosition);
 
 const miniMap = new L.Control.MiniMap(
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '',
-        subdomains: 'abcd',
         maxZoom: 11,
     }),
     {
