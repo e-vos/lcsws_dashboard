@@ -18445,6 +18445,256 @@
         "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=16db1c09-d323-48ae-aae1-eddf6662a3c0_1759346106.jpg",
         "Photo_Filename": "16db1c09-d323-48ae-aae1-eddf6662a3c0_1759346106.jpg"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.193345,
+          41.51278
+        ]
+      },
+      "properties": {
+        "entry_id": "b4e68f44-e0c3-4398-ae71-ddf9e5bc62ee",
+        "created_at": "2026-09-14T22:44:56.000Z",
+        "gps_accuracy_m": 4.0,
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Block",
+          "Pillow",
+          "Tablet"
+        ],
+        "Special_Features": [],
+        "Surveyor_Name": "Jon Stapleton",
+        "Comments": "",
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=b4e68f44-e0c3-4398-ae71-ddf9e5bc62ee_1789415725.jpg",
+        "Photo_Filename": "b4e68f44-e0c3-4398-ae71-ddf9e5bc62ee_1789415725.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.193451,
+          41.512793
+        ]
+      },
+      "properties": {
+        "entry_id": "4ca80675-8d8e-4a06-aed9-2b119e97b0b0",
+        "created_at": "2026-09-14T19:54:20.000Z",
+        "gps_accuracy_m": 4.0,
+        "Wall_Condition": "Poor",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Block",
+          "Pillow",
+          "Tablet"
+        ],
+        "Special_Features": [],
+        "Surveyor_Name": "Jon Stapleton",
+        "Comments": "",
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=4ca80675-8d8e-4a06-aed9-2b119e97b0b0_1789415615.jpg",
+        "Photo_Filename": "4ca80675-8d8e-4a06-aed9-2b119e97b0b0_1789415615.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.193926,
+          41.512699
+        ]
+      },
+      "properties": {
+        "entry_id": "d4b3846f-2024-49ce-bb1a-8d9832f06fbe",
+        "created_at": "2026-09-14T19:52:11.000Z",
+        "gps_accuracy_m": 5.0,
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Block",
+          "Pillow"
+        ],
+        "Special_Features": [
+          "Recently rebuilt",
+          "Flat top"
+        ],
+        "Surveyor_Name": "Jon Stapleton",
+        "Comments": "",
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=d4b3846f-2024-49ce-bb1a-8d9832f06fbe_1789415474.jpg",
+        "Photo_Filename": "d4b3846f-2024-49ce-bb1a-8d9832f06fbe_1789415474.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.193645,
+          41.512652
+        ]
+      },
+      "properties": {
+        "entry_id": "d139d737-28e7-4cf2-96d1-f58358a242ac",
+        "created_at": "2026-09-14T19:50:48.000Z",
+        "gps_accuracy_m": 5.0,
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Block",
+          "Pillow",
+          "Tablet"
+        ],
+        "Special_Features": [
+          "Flat top",
+          "Recently rebuilt"
+        ],
+        "Surveyor_Name": "Jon Stapleton",
+        "Comments": "",
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=d139d737-28e7-4cf2-96d1-f58358a242ac_1789415310.jpg",
+        "Photo_Filename": "d139d737-28e7-4cf2-96d1-f58358a242ac_1789415310.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.193671,
+          41.513429
+        ]
+      },
+      "properties": {
+        "entry_id": "5d34a895-9114-4da4-8e3f-b653ccd545e1",
+        "created_at": "2026-09-14T19:46:05.000Z",
+        "gps_accuracy_m": 9.0,
+        "Wall_Condition": "Fair",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Block",
+          "Pillow",
+          "Tablet"
+        ],
+        "Special_Features": [],
+        "Surveyor_Name": "Jon Stapleton",
+        "Comments": "",
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=5d34a895-9114-4da4-8e3f-b653ccd545e1_1789415105.jpg",
+        "Photo_Filename": "5d34a895-9114-4da4-8e3f-b653ccd545e1_1789415105.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.193841,
+          41.513281
+        ]
+      },
+      "properties": {
+        "entry_id": "432528eb-4bab-4124-b5c6-eafe8fb3f970",
+        "created_at": "2026-09-14T19:42:39.000Z",
+        "gps_accuracy_m": 18.0,
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Block",
+          "Pillow",
+          "Tablet"
+        ],
+        "Special_Features": [
+          "Flat top"
+        ],
+        "Surveyor_Name": "Jon Stapleton",
+        "Comments": "",
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=432528eb-4bab-4124-b5c6-eafe8fb3f970_1789414896.jpg",
+        "Photo_Filename": "432528eb-4bab-4124-b5c6-eafe8fb3f970_1789414896.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.194153,
+          41.512978
+        ]
+      },
+      "properties": {
+        "entry_id": "5c37e023-1ae1-4b3c-b66a-b8f454e2580f",
+        "created_at": "2026-09-14T19:40:27.000Z",
+        "gps_accuracy_m": 5.0,
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Stacked (stones placed loosely)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Block",
+          "Pillow",
+          "Tablet"
+        ],
+        "Special_Features": [],
+        "Surveyor_Name": "Jon Stapleton",
+        "Comments": "",
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=5c37e023-1ae1-4b3c-b66a-b8f454e2580f_1789414757.jpg",
+        "Photo_Filename": "5c37e023-1ae1-4b3c-b66a-b8f454e2580f_1789414757.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.199948,
+          41.512479
+        ]
+      },
+      "properties": {
+        "entry_id": "2411de12-b4ee-45aa-952f-34fc057a80e0",
+        "created_at": "2026-09-14T19:21:12.000Z",
+        "gps_accuracy_m": 4.0,
+        "Wall_Condition": "Good",
+        "Vegetation_Cover": "Clear (0-25% covered)",
+        "Wall_Type": "Laid (carefully selected and fitted)",
+        "Stone_Shape": [
+          "Ball",
+          "Slab",
+          "Block",
+          "Pillow",
+          "Tablet"
+        ],
+        "Special_Features": [
+          "Flat top",
+          "Double-sided"
+        ],
+        "Surveyor_Name": "Jon Stapleton",
+        "Comments": "",
+        "Photo_URL": "https://five.epicollect.net/api/internal/media/little-compton-wall-inventory-2025?type=photo&format=entry_original&name=2411de12-b4ee-45aa-952f-34fc057a80e0_1789413573.jpg",
+        "Photo_Filename": "2411de12-b4ee-45aa-952f-34fc057a80e0_1789413573.jpg"
+      }
     }
   ]
 }
